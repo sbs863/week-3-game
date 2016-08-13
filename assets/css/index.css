@@ -1,0 +1,16 @@
+<body> {
+	background-image: url("../images/Header.png");
+}
+
+.row1 
+{
+	text-align: center;
+	background-image: url("../images/Header.png");
+}
+
+.row3
+{
+	text-align: center;
+}
+
+<button type="button" class="btn btn-danger mycustombtn">Danger</button>
